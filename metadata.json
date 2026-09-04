@@ -1,0 +1,7 @@
+{
+  "name": "صلاتي وسكينتي",
+  "description": "تطبيق إسلامي ذكي لكتم الصوت التلقائي أثناء الصلاة، مواقيت الصلاة الدقيقة، قبلة خريطة جليسون، وتفريج الكروب بالذكاء الاصطناعي من القرآن والسنة الصحيحة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
